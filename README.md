@@ -18,7 +18,7 @@ Game Master Instructions:
 
 >This leaderboard will show when the funds have been swept from one of the opendime addresses.
 
->disperse opendime to each participant. (it may be more fun if they ar enot aware of the dynamics of this game beforehand.)
+>disperse opendime to each participant. (it may be more fun if they are not aware of the dynamics of this game beforehand, but more chaotic.)
 
 >inform them of the objective of the game.
 
@@ -49,4 +49,8 @@ Game Master Instructions:
 >Prizes could include Bitcoin, Bitcoin hardware, swag, etc.
 
 >this game can be used as a first/second/third draft game for future tournament games. First top 10 to place could move on to the next tournamnent round for example.
+
+>the game master(s) would need to act as referees and auditors to monitor the participants in case of fowl play.
+
+>timing each participant and creating a historical leader board for this game would be ideal, but would require standardizing each element. 
 
