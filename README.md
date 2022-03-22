@@ -7,9 +7,11 @@ For Eternal Glory and a Seat At Satoshi's Table in The Halls of Valhalla .
 Test Your Sovereign Indvidual Bitcoin Skills Against the Best! 
 
 
+
 Game One: The Open Dime Challenge
 
 Game Master Instructions:
+
 
 >Setup an opendime for each participant in the race. 
 
