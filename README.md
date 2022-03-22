@@ -1,8 +1,11 @@
 # The Bitcoin Games
 
+Competitive Open Source Bitcoin Only Sports, Games and Tournaments. 
+
 For Eternal Glory and a Seat At Satoshi's Table in The Halls of Valhalla . 
 
-Competitive Bitcoin Only Sports and Games. 
+Test Your Sovereign Indvidual Bitcoin Skills Against the Best! 
+
 
 Game One: The Open Dime Challenge
 
