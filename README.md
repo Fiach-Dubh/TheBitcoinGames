@@ -30,15 +30,15 @@ Game Master Instructions:
 
 >Participants may be requird to pay a fee to participate, and this pool of funds could be dispersed to the winner/games master.
 
->optional materials that could be provided, each of these can be strateiclaly placed for running/finding purposes:
+>optional materials that could be provided, each of these can be strategically placed for running/finding purposes:
 
 >push pins to unseal the opendime 
 
->laptops and or otg phone adaptors for usb interface with the opendime
+>laptops and or OTG phone adaptors for usb interface with the opendime
 
 >wifi hotspot to broadcast the transaction
 
->the password to this hotspot could be another small challenge to find, ie a bitcoin riddle challenge for the password
+>the password to this hotspot could be another small challenge to find, for example, a bitcoin riddle challenge for the password
 
 >the sending address may be written down and hidden somewhere or buried
 
@@ -53,4 +53,6 @@ Game Master Instructions:
 >the game master(s) would need to act as referees and auditors to monitor the participants in case of fowl play.
 
 >timing each participant and creating a historical leader board for this game would be ideal, but would require standardizing each element. 
+
+>Recording the participants may be very entertaining and ensure good faith of each.
 
