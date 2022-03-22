@@ -6,15 +6,15 @@ Competitive Bitcoin Only Sports and Games.
 
 Game One: The Open Dime Challenge
 
-Game Master Insturctions:
+Game Master Instructions:
 
 >Setup an opendime for each participant in the race. 
 
 >Deposit 10000 SATS to each still sealed opendime. 
 
->(For A more Difficult Challenege, deposit only 1 satoshi to each opendime)
+>(For a more difficult challange, deposit only 1 satoshi to each opendime).
 
->Record each recieving address of each opendime along with the corresponding participants name into a list and create a leaderboard
+>Record each recieving address of each opendime along with the corresponding participants name into a list and create a leader board.
 
 >This leaderboard will show when the funds have been swept from one of the opendime addresses.
 
@@ -47,4 +47,6 @@ Game Master Insturctions:
 >If two or more winning opendimes are swept at the same time and confirmed in the same block, then it's a tie and the winners share the prize.
 
 >Prizes could include Bitcoin, Bitcoin hardware, swag, etc.
+
+>this game can be used as a first/second/third draft game for future tournament games. First top 10 to place could move on to the next tournamnent round for example.
 
