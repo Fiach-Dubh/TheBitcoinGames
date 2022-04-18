@@ -1,0 +1,4 @@
+Using a combination of pre loaded NFC readers and cards filled with sats, organize a game of tag, grounders or last man standing.
+once a user is swiped/tagged with a nfc card, their sats are stolen by the hunter and transfered to their card
+having a zero card balance enables hunter mode
+only one hunter to begin with in each group, who is randomly selected via the hash of the most recent block
