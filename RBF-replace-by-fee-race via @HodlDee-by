@@ -1,0 +1,8 @@
+Create a seed - wallet
+Deposit say 1 million sats to the wallet (can vary depending on buy ins from participants etc)
+Give each participant a copy of the seed words and a laptop (with either wallet software already installed or none to make it harder)
+Alternativly, and preferrably they bring their own.
+have each particpant race to recover the wallet and spend to their own wallet.
+Each participant can use RBF to out bid the others transaction.
+this requires each participant having knowledge of the other participants fee bids, or guessing what the max bid would be for the group and out bidding that bid
+First participant transaction to be confirmed is the obvious winner.
